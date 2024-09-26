@@ -1,0 +1,1 @@
+Developed a comprehensive job search solution, Jobby App. • Designed pages for Login, Home, Jobs, and Job item details with React components and form inputs. • Secured user data with JWT tokens, REST API calls, and local storage. • Implemented protected routes and persisted login state with React Router and local storage.
